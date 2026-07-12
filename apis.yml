@@ -24,6 +24,8 @@ modified: '2026-04-28'
 specificationVersion: '0.19'
 apis: []
 common:
+  - type: DomainSecurity
+    url: security/granite-construction-domain-security.yml
   - type: LinkedIn
     url: https://www.linkedin.com/company/granite-construction
   - type: Website
@@ -38,6 +40,8 @@ common:
     url: https://www.graniteconstruction.com/newsroom
   - type: Careers
     url: https://www.graniteconstruction.com/careers
+  - url: https://www.graniteconstruction.com/newsroom
+    type: Blog
 maintainers:
   - FN: Kin Lane
     email: kin@apievangelist.com
