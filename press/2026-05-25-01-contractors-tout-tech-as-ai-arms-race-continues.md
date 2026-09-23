@@ -1,7 +1,9 @@
 ---
 title: Contractors tout tech as AI arms race continues
 url: https://www.constructiondive.com/news/ai-granite-skanska-safety-award-innovation/746909/
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"Granite Construction" press release artificial intelligence'
 position: 1
 source: serpapi-google

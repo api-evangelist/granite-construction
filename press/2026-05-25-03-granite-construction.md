@@ -1,7 +1,9 @@
 ---
 title: Granite Construction
 url: https://www.facebook.com/graniteconstruction/posts/safety-goes-hand-in-hand-with-innovation-part-of-safetybychoice-is-keeping-up-wi/1381748037292380/
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"Granite Construction" press release artificial intelligence'
 position: 3
 source: serpapi-google

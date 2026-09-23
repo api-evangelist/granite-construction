@@ -1,7 +1,9 @@
 ---
 title: Watsonville, Calif.-based Granite Construction Awarded For ...
 url: https://www.agc.org/news/2025/05/05/watsonville-calif-based-granite-construction-awarded-innovative-tailored-ai-training-tool-designed
-date: '2026-05-25'
+published: '2025-05-05'
+date_basis: url-derived
+harvested: '2026-05-25'
 query: '"Granite Construction" press release artificial intelligence'
 position: 4
 source: serpapi-google

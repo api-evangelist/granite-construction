@@ -1,7 +1,9 @@
 ---
 title: AI in construction is having its moment, maybe?
 url: https://www.linkedin.com/posts/clayedwards-skender_builders-slow-to-adopt-ai-despite-perceived-activity-7380966420072812544-Tonl
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"Granite Construction" press release artificial intelligence'
 position: 5
 source: serpapi-google
